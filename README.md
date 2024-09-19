@@ -1,2 +1,2 @@
 # HTML_Basic_Syntax
-Worked on above Basic HTML Syntax During Certification Course in Microdegree 
+"Acquired expertise in basic HTML syntax through Microdegree certification course, covering essential concepts, tags, and structural techniques for web development."
